@@ -4,8 +4,8 @@ git-scm.com: git program download
 git help -g (guide)
 git --version
 
-git config --global user.name ryanshin10
-git cofnig --global user.email ryanshin10@xxx.com
+git config --global user.name ryanshin1
+git config --global user.email ryanshin1@xxx.com
 
 git clone GITHUB-URL : download files from remote repository to local repository
 
