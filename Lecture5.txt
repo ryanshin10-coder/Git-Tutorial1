@@ -5,7 +5,7 @@ git help -g (guide)
 git --version
 
 git config --global user.name ryanshin10
-git cofnig --global user.email ryanshin10@gmail.com
+git cofnig --global user.email ryanshin10@xxx.com
 
 git clone GITHUB-URL : download files from remote repository to local repository
 
