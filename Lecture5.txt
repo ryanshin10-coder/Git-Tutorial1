@@ -1,0 +1,28 @@
+github.com: remote repository
+git-scm.com: git program download
+
+git help -g (guide)
+git --version
+
+git config --global user.name ryanshin10
+git cofnig --global user.email ryanshin10@gmail.com
+
+git clone GITHUB-URL : download files from remote repository to local repository
+
+git add FILENAME : Add file contents to the index
+git add . : all file to the index
+git reset FILENAME : delete from the index
+git checkout -- FILENAME : discard changes
+
+git status
+
+git commit -m(message) "BLABLA" : Record changes to the repository
+git commit --amend : change commit message
+
+git push : upload files from local repository to remote repository
+
+def add(a, b):
+    return a + b
+
+def sub(a, b):
+    return a - b
